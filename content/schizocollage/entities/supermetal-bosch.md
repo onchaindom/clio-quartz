@@ -12,7 +12,7 @@ Supermetal Bosch is an artist working at the intersection of AI synthesis, colle
 
 Bosch's two major projects in this context are *Mons* and *Little Swag World*. *Mons* (2021) feeds images of Pokémon-style cartoon monsters into a GAN to study how character design functions at the level of pattern and rule. The outputs are blurry, porous, half-realized creatures whose appeal lies in their in-betweenness. *Little Swag World* (2023–2024) works in the opposite direction: Bosch begins with mood-board collages of fashion fragments, then instructs an AI model to smooth them into holistic figures. The references mapped by Gardenparty85 on X include Rick Owens, Margiela, Vivienne Westwood, George Condo's Kanye album art, a Takashi Murakami plush bear, and Frank Frazetta barbarian motifs.
 
-Both projects were exhibited at [[entities/yeche-lange|Galerie Yeche Lange]] in 2025 in the two-person show *One of Us Is Real and It's Not You*, placed in dialogue with [[entities/evil-biscuit|Evil Biscuit]]'s maximalist collages. Seen together, the works traced "two diverging paths for NFTs" at a moment when artists were renegotiating the relationship between PFP conventions, generative tools, and collectible logic.
+Both projects were exhibited at [[yeche-lange|Galerie Yeche Lange]] in 2025 in the two-person show *One of Us Is Real and It's Not You*, placed in dialogue with [[evil-biscuit|Evil Biscuit]]'s maximalist collages. Seen together, the works traced "two diverging paths for NFTs" at a moment when artists were renegotiating the relationship between PFP conventions, generative tools, and collectible logic.
 
 Bosch extends his digital work into physical objects: *Mons* exists as ceramic game pieces, and *Little Swag World* figurines can be 3D-printed. This physical extension is part of a broader scene tendency to collapse digital art and collectible object into the same studio practice.
 
@@ -22,8 +22,8 @@ The artist's X handle is @supermetalx.
 
 ## See also
 
-- [[entities/yeche-lange|Yeche Lange]] — gallery for *One of Us Is Real and It's Not You* (2025)
-- [[entities/evil-biscuit|Evil Biscuit]] — paired in dialogue; the maximalist counter-pole
+- [[yeche-lange|Yeche Lange]] — gallery for *One of Us Is Real and It's Not You* (2025)
+- [[evil-biscuit|Evil Biscuit]] — paired in dialogue; the maximalist counter-pole
 - [[adjacent-aesthetics|Adjacent aesthetics]] — the AI/GAN synthesis pole and the trait-dissolution move
-- [[concepts/traitmaxxing|traitmaxxing]] — Bosch's *Little Swag World* runs traits in the opposite direction
+- [[traitmaxxing|traitmaxxing]] — Bosch's *Little Swag World* runs traits in the opposite direction
 - [[critical-disputes|Critical disputes]] — schizocollage vs. trait-dissolution as the scene's next phase

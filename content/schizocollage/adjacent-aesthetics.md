@@ -9,11 +9,11 @@ sources: [raw/articles/bauman-drifella-iii-lerandom.md, raw/articles/droitcour-s
 
 ## Victorian photocollage (c. 1860–1880s)
 
-Named transfer: **layered domestic collage + pop-culture irreverence.** British aristocratic women assembled photographic fragments of celebrities, animals, and household objects into surreal compositions decades before Braque and Picasso. Monk Antony surfaced this in a September 2025 thread as part of the [[concepts/traitmaxxing|traitmaxxing]] lineage. The schizocollage practitioner inherits the same impulse: to treat the image as a territory where social hierarchy dissolves into juxtaposition.
+Named transfer: **layered domestic collage + pop-culture irreverence.** British aristocratic women assembled photographic fragments of celebrities, animals, and household objects into surreal compositions decades before Braque and Picasso. Monk Antony surfaced this in a September 2025 thread as part of the [[traitmaxxing|traitmaxxing]] lineage. The schizocollage practitioner inherits the same impulse: to treat the image as a territory where social hierarchy dissolves into juxtaposition.
 
 ## Early British pop art (Hamilton, Paolozzi)
 
-Named transfer: **room-scale installation of high and low as equivalence.** Hamilton placed vacuum cleaners and risqué pin-ups in the same interior plane; Paolozzi collaged comic strips with machine parts. Both claimed the domestic interior as the site where mass culture is metabolized. Bauman draws this [[lineage|lineage]] for [[entities/drifella-iii|Drifella III]]'s room-format. The difference: Hamilton's objects were sourced from magazines; schizocollage sources from feeds.
+Named transfer: **room-scale installation of high and low as equivalence.** Hamilton placed vacuum cleaners and risqué pin-ups in the same interior plane; Paolozzi collaged comic strips with machine parts. Both claimed the domestic interior as the site where mass culture is metabolized. Bauman draws this [[lineage|lineage]] for [[drifella-iii|Drifella III]]'s room-format. The difference: Hamilton's objects were sourced from magazines; schizocollage sources from feeds.
 
 ## Neochibi / Y2K Japanese street-style tribes
 
@@ -25,7 +25,7 @@ Named transfer: **pride-flag semiotics, bitcoin symbolism, repeated GIFs, and de
 
 ## AI aesthetics / GAN synthesis (Supermetal Bosch, Ann Hirsch + Maya Man)
 
-Named transfer: **trait dissolution.** Where schizocollage multiplies traits until the figure is buried, GAN-based work metabolizes traits into holistic form. [[entities/supermetal-bosch|Bosch]]'s *Mons* holds Pokémon in limbo as training data; *Little Swag World* smooths mood-board fragments into unified figurines. Hirsch and Man's *Ugly Bitches* and *Little Darlings* use generated backdrops and algorithmic text overlays. The transfer is not a shared technique but a productive tension: schizocollage insists on the seam; synthesis insists on resolving it. Both occupy the same collectible-object economy.
+Named transfer: **trait dissolution.** Where schizocollage multiplies traits until the figure is buried, GAN-based work metabolizes traits into holistic form. [[supermetal-bosch|Bosch]]'s *Mons* holds Pokémon in limbo as training data; *Little Swag World* smooths mood-board fragments into unified figurines. Hirsch and Man's *Ugly Bitches* and *Little Darlings* use generated backdrops and algorithmic text overlays. The transfer is not a shared technique but a productive tension: schizocollage insists on the seam; synthesis insists on resolving it. Both occupy the same collectible-object economy.
 
 ## Terminally-online meme collage
 

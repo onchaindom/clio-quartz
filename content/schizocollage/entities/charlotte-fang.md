@@ -17,8 +17,8 @@ The schizocollage scene's relationship to Fang is unspoken in the critical recor
 
 ## See also
 
-- [[entities/mifella|Mifella]] — schism-point figure whose collection forks Fang's Milady lineage onto Solana
+- [[mifella|Mifella]] — schism-point figure whose collection forks Fang's Milady lineage onto Solana
 - [[lineage|Lineage]] — Milady Cancel and the Ethereum-to-Solana fork in chronology
 - [[critical-disputes|Critical disputes]] — the scene's unspoken inheritance of Fang's frameworks
-- [[concepts/traitmaxxing|traitmaxxing]] — trait-based identity descends from the drip-score logic
-- [[entities/evil-biscuit|Evil Biscuit]] — schizocollage's central practitioner working downstream of Milady
+- [[traitmaxxing|traitmaxxing]] — trait-based identity descends from the drip-score logic
+- [[evil-biscuit|Evil Biscuit]] — schizocollage's central practitioner working downstream of Milady

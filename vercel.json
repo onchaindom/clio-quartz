@@ -4,8 +4,5 @@
   "outputDirectory": "public",
   "installCommand": "npm install",
   "framework": null,
-  "trailingSlash": true,
-  "rewrites": [
-    { "source": "/:path+/", "destination": "/:path+.html" }
-  ]
+  "cleanUrls": true
 }

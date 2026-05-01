@@ -10,11 +10,11 @@ arena_channel: are.na/clio-press/schizocollage
 
 Galerie Yeche Lange is a New York gallery at 11 Broadway, Suite 1530. Since 2023 it has been the clearest physical counterpart to the Solana avant-NFT and schizocollage digital economy. Its X account is @Yeche_Lange.
 
-Yeche Lange mounted *One of Us Is Real and It's Not You* in 2025, a two-person exhibition pairing [[entities/evil-biscuit|Evil Biscuit]]'s maximalist collages with [[entities/supermetal-bosch|Supermetal Bosch]]'s AI-synthesis figures (*Mons* and *Little Swag World*). Brian Droitcour reviewed the show as tracing "two diverging paths for NFTs" at a moment when PFP conventions, generative tools, and collectible logic were being renegotiated.
+Yeche Lange mounted *One of Us Is Real and It's Not You* in 2025, a two-person exhibition pairing [[evil-biscuit|Evil Biscuit]]'s maximalist collages with [[supermetal-bosch|Supermetal Bosch]]'s AI-synthesis figures (*Mons* and *Little Swag World*). Brian Droitcour reviewed the show as tracing "two diverging paths for NFTs" at a moment when PFP conventions, generative tools, and collectible logic were being renegotiated.
 
-The gallery's most recent major show is *Fella Royale*, which opened in February 2026. Featuring Evil Biscuit (@bis__cut), [[entities/mifella|Mifella]] / Spiky DJ (@MMifella), Luhfella (@luhhfella), limaidyn (@limaidyn), and icouldpee64 (@icouldpee64), the show gathered the central figures of the schizocollage scene in a single room. Installation photographs posted to X show hung paintings, floor figures, and wall-mounted objects arranged in the miscellaneous style that Biscuit's *[[entities/drifella-iii|Drifella III]]* rooms formally echo. Open hours were Saturday and Sunday 2–6pm, with private weekday viewings by appointment.
+The gallery's most recent major show is *Fella Royale*, which opened in February 2026. Featuring Evil Biscuit (@bis__cut), [[mifella|Mifella]] / Spiky DJ (@MMifella), Luhfella (@luhhfella), limaidyn (@limaidyn), and icouldpee64 (@icouldpee64), the show gathered the central figures of the schizocollage scene in a single room. Installation photographs posted to X show hung paintings, floor figures, and wall-mounted objects arranged in the miscellaneous style that Biscuit's *[[drifella-iii|Drifella III]]* rooms formally echo. Open hours were Saturday and Sunday 2–6pm, with private weekday viewings by appointment.
 
-The gallery also retweets and supports scene-adjacent artists including [[entities/parker-ito|Parker Ito]], newartprogram, archivepilled, and supermetalx, and has promoted [[entities/vvv-so|VVV.so]] mints.
+The gallery also retweets and supports scene-adjacent artists including [[parker-ito|Parker Ito]], newartprogram, archivepilled, and supermetalx, and has promoted [[vvv-so|VVV.so]] mints.
 
 A collector posted an installation photograph of an IRL *Drifella III* triptych acquired from Yeche Lange, confirming that the gallery handles physical reproductions of the digital works.
 
@@ -27,8 +27,8 @@ A collector posted an installation photograph of an IRL *Drifella III* triptych 
 
 ## See also
 
-- [[entities/evil-biscuit|Evil Biscuit]] — gallery's most consistently exhibited schizocollage artist
-- [[entities/supermetal-bosch|Supermetal Bosch]] — paired with Biscuit in *One of Us Is Real and It's Not You*
-- [[entities/drifella-iii|Drifella III]] — the room format formally echoes the gallery's installation style
-- [[entities/vvv-so|VVV.so]] — digital counterpart; gallery promotes its mints
-- [[entities/mifella|Mifella]] — featured in *Fella Royale* (2026) alongside the wider scene
+- [[evil-biscuit|Evil Biscuit]] — gallery's most consistently exhibited schizocollage artist
+- [[supermetal-bosch|Supermetal Bosch]] — paired with Biscuit in *One of Us Is Real and It's Not You*
+- [[drifella-iii|Drifella III]] — the room format formally echoes the gallery's installation style
+- [[vvv-so|VVV.so]] — digital counterpart; gallery promotes its mints
+- [[mifella|Mifella]] — featured in *Fella Royale* (2026) alongside the wider scene

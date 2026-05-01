@@ -15,25 +15,25 @@ tags: [internet-native, movement, critical-frame]
 
 ## Figures (entities/)
 
-- [[entities/evil-biscuit]] — pseudonymous artist; Drifella triptychs
-- [[entities/parker-ito]] — @CreamyDreamy; institutional bridge to gallery world; Driladys
-- [[entities/supermetal-bosch]] — AI-synthesis pole; Mons / Little Swag World
-- [[entities/mifella]] — Spiky DJ; schism-point character/collection; Ethereum→Solana fork
-- [[entities/charlotte-fang]] — Remilia founder; Milady frameworks; disputed legacy
+- [[evil-biscuit]] — pseudonymous artist; Drifella triptychs
+- [[parker-ito]] — @CreamyDreamy; institutional bridge to gallery world; Driladys
+- [[supermetal-bosch]] — AI-synthesis pole; Mons / Little Swag World
+- [[mifella]] — Spiky DJ; schism-point character/collection; Ethereum→Solana fork
+- [[charlotte-fang]] — Remilia founder; Milady frameworks; disputed legacy
 
 ## Venues (entities/)
 
-- [[entities/yeche-lange]] — NYC gallery; Fella Royale; physical scene anchor
-- [[entities/vvv-so]] — Solana minting platform; Hoods, Projections, Memetic Plague
+- [[yeche-lange]] — NYC gallery; Fella Royale; physical scene anchor
+- [[vvv-so]] — Solana minting platform; Hoods, Projections, Memetic Plague
 
 ## Works (entities/)
 
-- [[entities/drifella-iii]] — canonical schizocollage exemplar; 1,333 rooms × 3,999 paintings
-- [[entities/drilady]] — Parker Ito, 2024; @dril reference; scene entry point for institutionally credentialed artist
+- [[drifella-iii]] — canonical schizocollage exemplar; 1,333 rooms × 3,999 paintings
+- [[drilady]] — Parker Ito, 2024; @dril reference; scene entry point for institutionally credentialed artist
 
 ## Concepts (concepts/)
 
-- [[concepts/traitmaxxing]] — density-as-value; the refusal of feed-scrolling legibility
+- [[traitmaxxing]] — density-as-value; the refusal of feed-scrolling legibility
 
 ## Sources
 
