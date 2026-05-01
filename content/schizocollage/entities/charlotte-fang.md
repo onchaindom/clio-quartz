@@ -16,3 +16,11 @@ In May 2022, a viral Twitter thread by the anonymous developer 0xngmi identified
 The controversy does not end with the Cancel. In 2024, Fang sued former Remilia co-founders for allegedly stealing IP and income; in 2025, those co-founders countersued Fang, comparing the artist to a "cult leader" and alleging seizure of $1.7 million from the collective. A competing narrative, promoted by the "Milady Truther" Substack, holds that the allegations are "widely considered debunked." The press's archival stance records both narratives without adjudicating.
 
 The schizocollage scene's relationship to Fang is unspoken in the critical record so far. The frameworks are inherited: neochibi body plans, trait-based identity, drip-score logic, and networked post-authorship all descend from Milady. But no schizocollage practitioner interviewed or cited in the available sources has explicitly addressed Fang's controversies. The silence is itself part of the record. The wiki notes it in [[critical-disputes]].
+
+## See also
+
+- [[entities/mifella|Mifella]] — schism-point figure whose collection forks Fang's Milady lineage onto Solana
+- [[lineage|Lineage]] — Milady Cancel and the Ethereum-to-Solana fork in chronology
+- [[critical-disputes|Critical disputes]] — the scene's unspoken inheritance of Fang's frameworks
+- [[concepts/traitmaxxing|traitmaxxing]] — trait-based identity descends from the drip-score logic
+- [[entities/evil-biscuit|Evil Biscuit]] — schizocollage's central practitioner working downstream of Milady

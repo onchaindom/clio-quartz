@@ -13,14 +13,19 @@ REPO_ROOT="$(cd "$(dirname "$0")/.." && pwd)"
 TARGET="${REPO_ROOT}/content/${TOPIC}/"
 mkdir -p "${TARGET}"
 
-rsync -avz --delete \
+rsync -avz --delete --delete-excluded \
   --exclude='.arena-corpus.json' \
   --exclude='.arena-channel.txt' \
   --exclude='.editor-*.md' \
+  --exclude='log.md' \
+  --exclude='SCHEMA.md' \
   --exclude='raw/' \
   -e "ssh -i ~/.ssh/clio_ed25519" \
   "openclaw@89.167.101.176:~/clio-press/wikis/${TOPIC}/" \
   "${TARGET}"
+
+# Prune empty subdirectories left behind after exclusions.
+find "${TARGET}" -mindepth 1 -type d -empty -delete
 
 echo
 echo "Synced ${TOPIC} → content/${TOPIC}/"

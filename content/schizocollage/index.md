@@ -23,6 +23,11 @@ tags: [internet-native, movement, critical-frame]
 - [[entities/mifella]] — Spiky DJ; schism-point character/collection; Ethereum→Solana fork
 - [[entities/charlotte-fang]] — Remilia founder; Milady frameworks; disputed legacy
 
+## Venues (entities/)
+
+- [[entities/yeche-lange]] — NYC gallery; Fella Royale; physical scene anchor
+- [[entities/vvv-so]] — Solana minting platform; Hoods, Projections, Memetic Plague
+
 ## Works (entities/)
 
 - [[entities/drifella-iii]] — canonical schizocollage exemplar; 1,333 rooms × 3,999 paintings
