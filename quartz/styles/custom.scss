@@ -2,6 +2,7 @@
 
 // Fira Code is loaded at weight 300 only — force headings to use it
 // instead of falling back to synthetic bold (which looks ugly on a thin font).
+// All Fira Code is uppercase by editorial choice.
 h1,
 h2,
 h3,
@@ -9,5 +10,6 @@ h4,
 h5,
 h6 {
   font-weight: 300;
-  letter-spacing: -0.01em;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
 }
