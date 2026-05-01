@@ -1,3 +1,13 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+// Fira Code is loaded at weight 300 only — force headings to use it
+// instead of falling back to synthetic bold (which looks ugly on a thin font).
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 300;
+  letter-spacing: -0.01em;
+}
