@@ -16,6 +16,7 @@ mkdir -p "${TARGET}"
 rsync -avz --delete \
   --exclude='.arena-corpus.json' \
   --exclude='.arena-channel.txt' \
+  --exclude='.editor-*.md' \
   --exclude='raw/' \
   -e "ssh -i ~/.ssh/clio_ed25519" \
   "openclaw@89.167.101.176:~/clio-press/wikis/${TOPIC}/" \
