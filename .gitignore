@@ -9,3 +9,4 @@ private/
 .replit
 replit.nix
 .vercel
+.claude/settings.local.json
