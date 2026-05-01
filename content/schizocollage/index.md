@@ -6,8 +6,6 @@ type: summary
 tags: [internet-native, movement, critical-frame]
 ---
 
-# Schizocollage Wiki — Index
-
 ## Required artifacts
 
 - [[lineage]]

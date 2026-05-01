@@ -8,8 +8,6 @@ sources: [raw/articles/greyarealabs-avant-gay-solana.md, raw/articles/bauman-dri
 arena_channel: are.na/clio-press/schizocollage
 ---
 
-# Drilady
-
 *Drilady* is a Solana NFT collection by [[entities/parker-ito|Parker Ito]] (@CreamyDreamy), released in 2024. The title references the X account @dril — a pseudonymous absurdist humorist whose voice has become a touchstone of terminally-online culture — and the "fella/lady" naming convention that structures the Milady-to-[[entities/mifella|Mifella]]-to-Drifella [[lineage|lineage]].
 
 The collection continues Ito's long-standing interest in internet-native imagery and the circulation of digital identity. Grey Area Labs described it as the moment when Ito "launched his own Solana NFTs" after observing the scene. The works were collected on Solana and appear in secondary-market listings alongside other avant-NFT pieces.

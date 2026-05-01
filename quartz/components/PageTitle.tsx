@@ -22,21 +22,21 @@ PageTitle.css = `
 .page-title-wrapper {
   display: flex;
   flex-direction: column;
-  align-items: flex-start;
-  gap: 0.5rem;
+  align-items: stretch;
+  gap: 0.75rem;
   margin: 0;
 }
 
 .page-title-logo-link {
-  display: inline-block;
+  display: block;
   background: none;
+  width: 100%;
 }
 
 .page-title-logo {
-  width: 48px;
-  height: 48px;
+  width: 100%;
+  height: auto;
   display: block;
-  border-radius: 4px;
 }
 
 .page-title {

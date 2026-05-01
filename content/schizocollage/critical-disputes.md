@@ -7,8 +7,6 @@ tags: [disputed, movement, internet-native]
 sources: [raw/articles/bauman-drifella-iii-lerandom.md, raw/articles/droitcour-seams-synthesis-lerandom.md, raw/articles/rightclicksave-avant-nft-underground.md]
 ---
 
-# Critical Disputes
-
 ## 1. "Avant/Gay" / "Gay NFTs" — self-naming, critic's frame, or both?
 
 The label "Avant/Gay" circulates. Monk Antony's thread uses it as a genre designation alongside "Gay NFTs." The Verse Works podcast "ONE HOUR WITH LOWBIE" discusses "Avant Gay" scene culture. SonofLasG's essay title is "Iridium Pilled: Notes on the Avant Gay" and treats it as a named movement. Cuckcore.de's vocabulary of pride flags, gay.gif, and drag-adjacent works like *[[entities/drilady|Drilady]]* suggests partial embrace from inside.

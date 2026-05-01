@@ -7,8 +7,6 @@ tags: [formal-device, internet-native]
 sources: [raw/articles/bauman-drifella-iii-lerandom.md, raw/articles/droitcour-seams-synthesis-lerandom.md, raw/transcripts/1964282814884425758.md]
 ---
 
-# Traitmaxxing
-
 Traitmaxxing is the practice of multiplying compositional traits — layers, attributes, references — within a single image or generative NFT to the point where density itself becomes the value. In traditional PFP projects like CryptoPunks, traits are functional: 87 distinct attributes distributed across 10,000 images create rarity tiers that platforms like OpenSea can sort and rank. In traitmaxxing, the trait count is decoupled from rarity legibility. The point is not to create a scarcer avatar but to saturate the image with references until it demands sustained attention.
 
 Monk Antony coined or popularized the term in a September 2025 thread titled "some traitmaxxing lineage," which traced the impulse through Victorian photocollage, early Solana avant photography (Adolphe Braun's 1867 hunting scene), and [[entities/parker-ito|Parker Ito]]'s 2010 paintings. The thread treated traitmaxxing not as a specific technique but as a recurring compositional appetite: the desire to load an image with more information than a casual glance can process.

@@ -8,8 +8,6 @@ sources: [raw/articles/bauman-drifella-iii-lerandom.md]
 arena_channel: are.na/clio-press/schizocollage
 ---
 
-# Drifella III
-
 *Drifella III* is a generative NFT collection by [[entities/evil-biscuit|Evil Biscuit]], released on Solana in 2025. It is the most thoroughly criticized and most frequently cited exemplar of the schizocollage aesthetic.
 
 The collection comprises 1,333 rooms, each containing a triptych of paintings, for a total of 3,999 individual works. Bauman reports that the collection contains over 5,000 distinct traits — by comparison, CryptoPunks uses 87 traits across its entire 10,000-item collection. The works are viewable in their intended format through a custom frontend, Drifellascape, built by d347h.eth, which simulates a gallery space rather than a feed.
