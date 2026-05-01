@@ -37,15 +37,15 @@ tags: [internet-native, movement, critical-frame]
 
 - [[concepts/traitmaxxing]] — density-as-value; the refusal of feed-scrolling legibility
 
-## Raw sources (raw/)
+## Sources
 
-- raw/articles/bauman-drifella-iii-lerandom.md
-- raw/articles/droitcour-seams-synthesis-lerandom.md
-- raw/articles/rightclicksave-avant-nft-underground.md
-- raw/articles/greyarealabs-avant-gay-solana.md
-- raw/articles/sonoflasg-iridium-pilled.md
-- raw/articles/verse-parker-ito-solos.md
-- raw/articles/wiki-remilia-milady-cancel.md
-- raw/articles/cuckcore-splash.md
-- raw/articles/miladymaker-landing.md
-- raw/transcripts/ (X.com thread JSONs: Monk Antony, Droitcour, archivepilled)
+- Peter Bauman (Monk Antony), *Drifella III: Room for Complexity* — Le Random
+- Brian Droitcour, *Seams of Synthesis* — Le Random
+- *Avant NFT Underground* — Right Click Save, Nov 2025
+- *Avant/Gay on Solana* — Grey Area Labs, Sep 2025
+- SonofLasG, *Iridium Pilled: Notes on the Avant Gay* — Paragraph, Oct 2025
+- *Parker Ito Solos* — Verse Works, Aug 2025
+- *Milady Cancel* — wiki.remilia.org
+- cuckcore.de (scene splash)
+- miladymaker.net (landing)
+- X.com thread archives — @MonkAntony, @briandroitcour, @archivepilled
