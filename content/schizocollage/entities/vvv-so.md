@@ -8,8 +8,6 @@ sources: [raw/articles/rightclicksave-avant-nft-underground.md]
 arena_channel: are.na/clio-press/schizocollage
 ---
 
-# VVV.so
-
 VVV.so is a Solana-native NFT minting platform that serves as a distribution channel for the schizocollage and avant-NFT scene. The platform's X account is @vvvdotso. Its positioning is better read through the artists it hosts and the language of its posts than through any manifesto.
 
 "Slowcooking / low heat / long time / maximum flavor" — an April 2026 tweet. The platform presents itself as unhurried, curated, opposed to the churn of open-edition drops. The same month it announced "New Bad Image," an NFT group show curated by @sssluke1 and featuring "heavy hitters from the post-internet era and the avant NFT/SOL scene," including Parker Ito.

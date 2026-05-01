@@ -7,8 +7,6 @@ tags: [formal-device, movement, internet-native]
 sources: [raw/articles/bauman-drifella-iii-lerandom.md, raw/articles/droitcour-seams-synthesis-lerandom.md]
 ---
 
-# Formal Grammar
-
 1. **Visible seams are legible as content.** The collage does not hide its stitches. Difference is compositional material, not error. Evidence: Droitcour's entire framing — "schizocollage foregrounds visible seams and difference."
 
 2. **Trait-density exceeds PFP utility.** CryptoPunks use 87 traits across 10,000 images; Drifella III uses over 5,000 traits across 1,333 rooms. The purpose of density is not rarity legibility but referential saturation. Evidence: Bauman's count in the Le Random essay.

@@ -7,8 +7,6 @@ tags: [adjacent-aesthetic, movement, internet-native]
 sources: [raw/articles/bauman-drifella-iii-lerandom.md, raw/articles/droitcour-seams-synthesis-lerandom.md, raw/articles/rightclicksave-avant-nft-underground.md, raw/articles/sonoflasg-iridium-pilled.md]
 ---
 
-# Adjacent Aesthetics
-
 ## Victorian photocollage (c. 1860–1880s)
 
 Named transfer: **layered domestic collage + pop-culture irreverence.** British aristocratic women assembled photographic fragments of celebrities, animals, and household objects into surreal compositions decades before Braque and Picasso. Monk Antony surfaced this in a September 2025 thread as part of the traitmaxxing lineage. The schizocollage practitioner inherits the same impulse: to treat the image as a territory where social hierarchy dissolves into juxtaposition.

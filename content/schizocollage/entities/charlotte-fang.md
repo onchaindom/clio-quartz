@@ -7,8 +7,6 @@ tags: [figure, disputed, internet-native]
 sources: [raw/articles/wiki-remilia-milady-cancel.md, raw/articles/bauman-drifella-iii-lerandom.md, raw/articles/miladymaker-landing.md]
 ---
 
-# Charlotte Fang
-
 Charlotte Fang (legal name Krishna Okhandiar) is the founder and former CEO of Remilia Corporation, the DAO behind the Milady Maker NFT collection (2021). The Milady aesthetic — neochibi, Y2K Japanese street-style, hypercitation, post-authorship — is the intellectual and technical base on which schizocollage was built. Fang's frameworks include network spirituality, post-authorship, hypercitation, left-hand style, and neochibi character design.
 
 In May 2022, a viral Twitter thread by the anonymous developer 0xngmi identified Fang with an online persona named "Miya" who had been associated with extremist blog posts, references to a suicide cult, and overtly racist and homophobic content. Fang initially denied the connection, then admitted it and stepped down as CEO of Remilia. The event, known as the Milady Cancel, temporarily cratered the collection's price before a partial recovery.

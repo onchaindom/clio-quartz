@@ -8,8 +8,6 @@ sources: [raw/articles/droitcour-seams-synthesis-lerandom.md, raw/articles/bauma
 arena_channel: are.na/clio-press/schizocollage
 ---
 
-# Galerie Yeche Lange
-
 Galerie Yeche Lange is a New York gallery at 11 Broadway, Suite 1530. Since 2023 it has been the clearest physical counterpart to the Solana avant-NFT and schizocollage digital economy. Its X account is @Yeche_Lange.
 
 Yeche Lange mounted *One of Us Is Real and It's Not You* in 2025, a two-person exhibition pairing Evil Biscuit's maximalist collages with Supermetal Bosch's AI-synthesis figures (*Mons* and *Little Swag World*). Brian Droitcour reviewed the show as tracing "two diverging paths for NFTs" at a moment when PFP conventions, generative tools, and collectible logic were being renegotiated.

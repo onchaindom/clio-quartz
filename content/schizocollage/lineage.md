@@ -7,8 +7,6 @@ tags: [lineage, movement, internet-native]
 sources: [raw/articles/bauman-drifella-iii-lerandom.md, raw/articles/droitcour-seams-synthesis-lerandom.md, raw/articles/rightclicksave-avant-nft-underground.md, raw/articles/greyarealabs-avant-gay-solana.md]
 ---
 
-# Lineage
-
 ## Ancestors (pre-2021)
 
 | Period | Node | Transfer |

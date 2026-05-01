@@ -8,8 +8,6 @@ sources: [raw/articles/bauman-drifella-iii-lerandom.md]
 arena_channel: are.na/clio-press/schizocollage
 ---
 
-# Evil Biscuit
-
 Evil Biscuit is a pseudonymous artist in the Solana avant-NFT scene, known for the *Drifella* triptych series (2023–2025). No biographical information has been published. What exists is the work and the artist's statements on X.
 
 The central project is *Drifella III*: 1,333 rooms, each containing a triptych, totaling 3,999 paintings. Bauman counts over 5,000 traits across the collection. Biscuit builds the images using the HashLips PFP engine, misdirecting it from clean collectible output into painterly chaos: PNG layers stacked as brushstrokes, "pencil" traits mixed with "paint" traits, until the underlying Dratini silhouette is barely legible.

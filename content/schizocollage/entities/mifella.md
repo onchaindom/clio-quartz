@@ -7,8 +7,6 @@ tags: [work, figure, internet-native]
 sources: [raw/articles/bauman-drifella-iii-lerandom.md, raw/articles/rightclicksave-avant-nft-underground.md, raw/transcripts/1932829548720369949.md]
 ---
 
-# Mifella
-
 Mifella is both an NFT collection and a character in the lore of the Solana avant scene, created by the artist known as Spiky DJ. It is the schism point: the fork at which a faction of the Milady/Remilia ecosystem migrated from Ethereum to Solana and began developing the visual vocabulary that would become schizocollage.
 
 According to scene lore recounted by Monk Antony (from a conversation with Patrician), Mifella was struggling to mint out on Solana as the first collection of its kind on the new chain. The community began joking that Mifella would only mint out once the artist died. That joke became the foundational myth: Mifella sacrificed himself to birth the scene. The crucifixion narrative that followed produced the Crucifella, which first appeared in Evil Biscuit's *The Constant Fella* (2023) and is considered by some scene participants as "Mifella 1.5."

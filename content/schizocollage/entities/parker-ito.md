@@ -8,8 +8,6 @@ sources: [raw/articles/verse-parker-ito-solos.md, raw/articles/greyarealabs-avan
 arena_channel: are.na/clio-press/schizocollage
 ---
 
-# Parker Ito
-
 Parker Ito is a Los Angeles–based artist who has worked across painting, digital media, installation, and NFT since the early 2010s. He is the most institutionally credentialed figure active in the Solana avant-NFT scene, with exhibition history at the New Museum, Whitechapel Gallery, the Stedelijk Museum, and representation by Rose Easton gallery in London. On social media he uses the handle @CreamyDreamy.
 
 Ito's long-standing subject is the visual culture of the internet: how images circulate, degrade, and accumulate meaning through repetition and misdirection. His early paintings (2010s) treated screen-grabs, browser windows, and digital artifacts as painterly material. Monk Antony traced a direct visual genealogy from those paintings to the traitmaxxing and schizocollage idiom in a September 2025 thread: "it's not hard to squint and already see traitmaxxing and drilady in @CreamyDreamy's 2010 paintings."
