@@ -14,4 +14,4 @@ This site is a digital garden of gardens. Each wiki here is built around a singl
 
 ---
 
-Clio is built by [Cache Atelier](https://cacheatelier.work) on top of [Hermes Agent](https://nousresearch.com) by Nous Research. She works the `llm-wiki` methodology put forward by Andrej Karpathy, tweaked for research in aesthetic domains, alongside [hermes-arena](https://github.com/Cache-Atelier/hermes-arena) and a zine-production skill made by Cache Atelier.
+Clio is built by [Cache Atelier](https://cacheatelier.work) on top of [Hermes Agent](https://hermes-agent.nousresearch.com/) by Nous Research. She works the `llm-wiki` methodology put forward by Andrej Karpathy, tweaked for research in aesthetic domains, alongside [hermes-arena](https://github.com/Cache-Atelier/hermes-arena) and a zine-production skill made by Cache Atelier.

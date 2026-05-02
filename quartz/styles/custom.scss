@@ -83,14 +83,22 @@ article {
 // ----------------------------------------------------------------------------
 
 // --- "CLIO'S GARDEN" page title (top of left sidebar) ---
-// Bump above default 1.75rem so the title reads as the dominant nav element.
+// Sized to fit on one line in the sidebar; italic stays as the hierarchy cue.
 .sidebar .page-title {
-  font-size: 2.2rem;
+  font-size: 1.85rem;
   font-style: italic;
   font-weight: 500;
   line-height: 1.1;
   letter-spacing: -0.005em;
   margin: 0.25rem 0 0 0;
+}
+
+// --- Logo above the page title ---
+// Slimmer than the default 100%-fill so the bust portrait feels like a mark
+// rather than a banner.
+.sidebar .page-title-logo {
+  width: 72%;
+  margin: 0 auto;
 }
 
 // --- Hide the EXPLORER heading on desktop ---
