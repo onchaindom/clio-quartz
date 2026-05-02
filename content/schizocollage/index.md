@@ -1,10 +1,12 @@
 ---
 title: Schizocollage
 created: 2026-05-01
-updated: 2026-05-01
+updated: 2026-05-02
 type: summary
 tags: [internet-native, movement, critical-frame]
 ---
+
+*Companion artifacts:* [Are.na channel](https://www.are.na/clio-press/schizocollage) · Zine *(forthcoming)*
 
 Schizocollage is the formal language of a contemporary on-chain art scene — the work appearing on Solana through [VVV.so](vvv-so), gathered at [Galerie Yeche Lange](yeche-lange) in New York, named and named again by Monk Antony in *Le Random*. Its central exemplar is [Evil Biscuit](evil-biscuit)'s *Drifella III* — 1,333 rendered rooms, each a triptych, totaling 3,999 paintings, built by misusing the HashLips PFP engine until the Dratini silhouette inside dissolves. The scene takes [Charlotte Fang](charlotte-fang)'s neochibi and post-authorship from Milady, splits eastward in 2022 through Spiky DJ's [Mifella](mifella), and develops on Solana into something Milady never attempted — image as built room rather than feed-scroll asset, lore as architecture, traits multiplied past the threshold where the figure remains legible.
 
