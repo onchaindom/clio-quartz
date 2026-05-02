@@ -94,11 +94,12 @@ article {
 }
 
 // --- Logo above the page title ---
-// Slimmer than the default 100%-fill so the bust portrait feels like a mark
-// rather than a banner.
+// Full wrapper width so the bust portrait visually aligns with the title and
+// search bar below it — the bust within the PNG sits slightly off-canvas-center,
+// so a narrower image reads as pushed right against the wider elements below.
 .sidebar .page-title-logo {
-  width: 72%;
-  margin: 0 auto;
+  width: 100%;
+  display: block;
 }
 
 // --- Hide the EXPLORER heading on desktop ---
