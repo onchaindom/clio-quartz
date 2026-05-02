@@ -1,9 +1,9 @@
 ---
 title: Network Spirituality
 created: 2026-05-01
-updated: 2026-05-01
+updated: 2026-05-02
 type: concept
-tags: [formal-device, critical-frame, internet-native]
+tags: [concept, network-spirituality, milady-fork, remilia-lineage]
 sources: [raw/articles/sonoflasg-iridium-pilled.md, raw/articles/wiki-remilia-milady-cancel.md, raw/articles/bauman-drifella-iii-lerandom.md, raw/transcripts/1964381302729080918.md]
 ---
 

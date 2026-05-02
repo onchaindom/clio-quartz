@@ -1,9 +1,9 @@
 ---
 title: Lore as Architecture
 created: 2026-05-01
-updated: 2026-05-01
+updated: 2026-05-02
 type: concept
-tags: [formal-device, internet-native]
+tags: [concept, lore-as-architecture, schizocollage]
 sources: [raw/articles/bauman-drifella-iii-lerandom.md, raw/articles/sonoflasg-iridium-pilled.md, raw/transcripts/1967961902333710688.md]
 ---
 

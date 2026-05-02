@@ -1,9 +1,9 @@
 ---
 title: Supermetal Bosch
 created: 2026-05-01
-updated: 2026-05-01
-type: entity
-tags: [figure, internet-native]
+updated: 2026-05-02
+type: figure
+tags: [figure, schizocollage, ai-synthesis]
 sources: [raw/articles/droitcour-seams-synthesis-lerandom.md, raw/articles/rightclicksave-avant-nft-underground.md]
 arena_channel: are.na/clio-press/schizocollage
 ---

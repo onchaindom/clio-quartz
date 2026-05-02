@@ -1,9 +1,9 @@
 ---
 title: Mifella
 created: 2026-05-01
-updated: 2026-05-01
-type: entity
-tags: [work, figure, internet-native]
+updated: 2026-05-02
+type: figure
+tags: [figure, schizocollage, milady-fork, 2022-schism]
 sources: [raw/articles/bauman-drifella-iii-lerandom.md, raw/articles/rightclicksave-avant-nft-underground.md, raw/transcripts/1932829548720369949.md]
 ---
 

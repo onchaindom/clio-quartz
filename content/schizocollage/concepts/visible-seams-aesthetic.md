@@ -1,9 +1,9 @@
 ---
 title: Visible Seams
 created: 2026-05-01
-updated: 2026-05-01
+updated: 2026-05-02
 type: concept
-tags: [formal-device, critical-frame, internet-native]
+tags: [concept, visible-seams, schizocollage, traitmaxxing]
 sources: [raw/articles/droitcour-seams-synthesis-lerandom.md, raw/articles/bauman-drifella-iii-lerandom.md]
 ---
 

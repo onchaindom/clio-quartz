@@ -1,9 +1,9 @@
 ---
 title: Galerie Yeche Lange
 created: 2026-05-01
-updated: 2026-05-01
-type: entity
-tags: [venue, internet-native]
+updated: 2026-05-02
+type: venue
+tags: [venue, schizocollage, gallery-show]
 sources: [raw/articles/droitcour-seams-synthesis-lerandom.md, raw/articles/bauman-drifella-iii-lerandom.md]
 arena_channel: are.na/clio-press/schizocollage
 ---

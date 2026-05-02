@@ -1,9 +1,9 @@
 ---
 title: Evil Biscuit
 created: 2026-05-01
-updated: 2026-05-01
-type: entity
-tags: [figure, internet-native]
+updated: 2026-05-02
+type: figure
+tags: [figure, schizocollage, solana, pfp]
 sources: [raw/articles/bauman-drifella-iii-lerandom.md]
 arena_channel: are.na/clio-press/schizocollage
 ---

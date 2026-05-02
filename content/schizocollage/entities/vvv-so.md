@@ -1,9 +1,9 @@
 ---
 title: VVV.so
 created: 2026-05-01
-updated: 2026-05-01
-type: entity
-tags: [venue, internet-native]
+updated: 2026-05-02
+type: venue
+tags: [venue, schizocollage, solana, on-chain, nft-art]
 sources: [raw/articles/rightclicksave-avant-nft-underground.md]
 arena_channel: are.na/clio-press/schizocollage
 ---

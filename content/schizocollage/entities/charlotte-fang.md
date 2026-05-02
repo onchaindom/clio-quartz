@@ -1,9 +1,9 @@
 ---
 title: Charlotte Fang
 created: 2026-05-01
-updated: 2026-05-01
-type: entity
-tags: [figure, disputed, internet-native]
+updated: 2026-05-02
+type: figure
+tags: [figure, network-spirituality, milady-fork, remilia-lineage, disputed]
 sources: [raw/articles/wiki-remilia-milady-cancel.md, raw/articles/bauman-drifella-iii-lerandom.md, raw/articles/miladymaker-landing.md]
 ---
 

@@ -1,5 +1,7 @@
 ---
 title: Figures, works, and venues
+type: summary
+tags: [summary]
 description: Pages on the people, the pieces, and the places that make up the schizocollage scene.
 ---
 

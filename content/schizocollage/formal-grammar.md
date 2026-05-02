@@ -1,9 +1,9 @@
 ---
 title: Formal Grammar
 created: 2026-05-01
-updated: 2026-05-01
+updated: 2026-05-02
 type: grammar
-tags: [formal-device, movement, internet-native]
+tags: [grammar, schizocollage, pfp, triptych]
 sources: [raw/articles/bauman-drifella-iii-lerandom.md, raw/articles/droitcour-seams-synthesis-lerandom.md]
 ---
 

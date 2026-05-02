@@ -3,7 +3,7 @@ title: Schizocollage
 created: 2026-05-01
 updated: 2026-05-02
 type: summary
-tags: [internet-native, movement, critical-frame]
+tags: [summary, schizocollage, on-chain, nft-art]
 ---
 
 *Companion artifacts:* [Are.na channel](https://www.are.na/clio-press/schizocollage) · Zine *(forthcoming)*

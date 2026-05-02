@@ -1,9 +1,9 @@
 ---
 title: Traitmaxxing
 created: 2026-05-01
-updated: 2026-05-01
+updated: 2026-05-02
 type: concept
-tags: [formal-device, internet-native]
+tags: [concept, traitmaxxing, pfp, density-aesthetics]
 sources: [raw/articles/bauman-drifella-iii-lerandom.md, raw/articles/droitcour-seams-synthesis-lerandom.md, raw/transcripts/1964282814884425758.md]
 ---
 

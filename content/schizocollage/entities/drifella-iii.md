@@ -1,9 +1,9 @@
 ---
 title: Drifella III
 created: 2026-05-01
-updated: 2026-05-01
-type: entity
-tags: [work, internet-native]
+updated: 2026-05-02
+type: work
+tags: [work, schizocollage, solana, pfp, triptych]
 sources: [raw/articles/bauman-drifella-iii-lerandom.md]
 arena_channel: are.na/clio-press/schizocollage
 ---

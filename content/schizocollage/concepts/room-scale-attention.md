@@ -1,9 +1,9 @@
 ---
 title: Room-Scale Attention
 created: 2026-05-01
-updated: 2026-05-01
+updated: 2026-05-02
 type: concept
-tags: [formal-device, critical-frame, internet-native]
+tags: [concept, feed-refusal, room-scale, schizocollage]
 sources: [raw/articles/bauman-drifella-iii-lerandom.md]
 ---
 

@@ -1,9 +1,9 @@
 ---
 title: PNG-Layer Compositing
 created: 2026-05-01
-updated: 2026-05-01
+updated: 2026-05-02
 type: concept
-tags: [formal-device, material, internet-native]
+tags: [concept, schizocollage, traitmaxxing, pfp]
 sources: [raw/articles/bauman-drifella-iii-lerandom.md]
 ---
 

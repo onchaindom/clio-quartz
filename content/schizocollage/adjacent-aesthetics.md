@@ -1,9 +1,9 @@
 ---
 title: Adjacent Aesthetics
 created: 2026-05-01
-updated: 2026-05-01
+updated: 2026-05-02
 type: adjacent
-tags: [adjacent-aesthetic, movement, internet-native]
+tags: [adjacent, schizocollage, milady-fork, on-chain]
 sources: [raw/articles/bauman-drifella-iii-lerandom.md, raw/articles/droitcour-seams-synthesis-lerandom.md, raw/articles/rightclicksave-avant-nft-underground.md, raw/articles/sonoflasg-iridium-pilled.md]
 ---
 

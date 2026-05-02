@@ -1,9 +1,9 @@
 ---
 title: Lineage
 created: 2026-05-01
-updated: 2026-05-01
+updated: 2026-05-02
 type: lineage
-tags: [lineage, movement, internet-native]
+tags: [lineage, schizocollage, milady-fork, 2022-schism]
 sources: [raw/articles/bauman-drifella-iii-lerandom.md, raw/articles/droitcour-seams-synthesis-lerandom.md, raw/articles/rightclicksave-avant-nft-underground.md, raw/articles/greyarealabs-avant-gay-solana.md]
 ---
 
