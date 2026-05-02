@@ -82,6 +82,24 @@ article {
 // of bold to mark them as structural rather than content.
 // ----------------------------------------------------------------------------
 
+// --- "CLIO'S GARDEN" page title (top of left sidebar) ---
+// Bump above default 1.75rem so the title reads as the dominant nav element.
+.sidebar .page-title {
+  font-size: 2.2rem;
+  font-style: italic;
+  font-weight: 500;
+  line-height: 1.1;
+  letter-spacing: -0.005em;
+  margin: 0.25rem 0 0 0;
+}
+
+// --- Hide the EXPLORER heading on desktop ---
+// The wikis list under it IS the explorer; the label is dead scaffolding.
+// Mobile keeps its hamburger button (a separate .mobile-explorer element).
+.explorer button.desktop-explorer {
+  display: none;
+}
+
 .sidebar {
   // Section titles inside the sidebar (e.g. "Search", "Explorer", "Recent")
   h1, h2, h3, .toc-title, .explorer-title {

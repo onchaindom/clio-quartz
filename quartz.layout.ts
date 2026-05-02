@@ -35,10 +35,12 @@ export const defaultContentPageLayout: PageLayout = {
           grow: true,
         },
         { Component: Component.Darkmode() },
-        { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+      folderDefaultState: "open",
+      useSavedState: false,
+    }),
   ],
   right: [
     Component.Graph(),
