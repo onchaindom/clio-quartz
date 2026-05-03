@@ -40,14 +40,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Explorer({
       folderDefaultState: "open",
       useSavedState: false,
-      filterFn: (node) => {
-        // Hide formal-analysis/ from the explorer — it's plumbing for
-        // wikilink resolution and cross-wiki tag bridges, not a surface
-        // readers need to navigate. Pages still render at their URLs and
-        // hover-cards / [[wikilinks]] / /tags/ pages all keep working.
-        const omit = new Set(["tags", "formal-analysis"])
-        return !omit.has(node.name.toLowerCase())
-      },
+      filterFn: (node) => node.slugSegment !== "tags" && node.slugSegment !== "formal-analysis",
     }),
   ],
   right: [
@@ -73,10 +66,7 @@ export const defaultListPageLayout: PageLayout = {
       ],
     }),
     Component.Explorer({
-      filterFn: (node) => {
-        const omit = new Set(["tags", "formal-analysis"])
-        return !omit.has(node.name.toLowerCase())
-      },
+      filterFn: (node) => node.slugSegment !== "tags" && node.slugSegment !== "formal-analysis",
     }),
   ],
   right: [],
