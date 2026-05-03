@@ -10,7 +10,7 @@ collection: "[[drifella-iii]]"
 image: /static/works/schizocollage/drifella-iii-1160-detail.jpeg
 image_credit: "Source: Bauman, Le Random — via Are.na block 45756737"
 arena_block: "https://www.are.na/block/45756737"
-tags: [work, evil-biscuit, drifella-iii, png-layer-compositing, traitmaxxing, pokemon-base, dratini-body, schizocollage]
+tags: [work, evil-biscuit, drifella-iii, png-layer-compositing, traitmaxxing, pokemon-base, dratini-body, schizocollage, framing, palette, silhouette, layering, wash]
 ---
 
 ![Drifella III #1160 detail (2025), Evil Biscuit](/static/works/schizocollage/drifella-iii-1160-detail.jpeg)
@@ -19,7 +19,7 @@ tags: [work, evil-biscuit, drifella-iii, png-layer-compositing, traitmaxxing, po
 
 ## Close looking
 
-A loosely sketched square, framed all around by a rosy decorative border patterned like cake paper, holds a central figure that the painting has almost — but not quite — buried. The figure is a large, dark-furred, cat-like creature with two wide pink eyes and a thin grin of ragged teeth, its silhouette rendered in soft pixel-edges so that the body itself is half-resolved, half-fuzzed. In its arms it cradles a [[png-layer-compositing|stamped-on]] cartoon mouse — a Pikachu-adjacent yellow figure with red cheeks — which sits like a sticker on the chest, then trails downward into a black coiled tail in the lower centre. The background is a wash of cobalt and warm grey, scribbled across with blocks of red, faint snowflake shapes, and a row of small green coins; in the upper third a glitched grid of yellow tiles flashes near the figure's ear, then dissolves. Reads first: the dark cat-figure with the bright stamp on its chest, the [[mifella|Crucifella]] silhouette translated into [[traitmaxxing|maximalist]] fur and a borrowed mascot. Reads last: the snowflakes and the coin row, the ambient trait-noise that the room never bothers to resolve.
+A loosely sketched square, [[framing|framed]] all around by a rosy decorative border patterned like cake paper, holds a central figure that the painting has almost — but not quite — buried. The figure is a large, dark-furred, cat-like creature with two wide pink eyes and a thin grin of ragged teeth, its [[silhouette]] rendered in soft pixel-edges so that the body itself is half-resolved, half-fuzzed. In its arms it cradles a [[png-layer-compositing|stamped-on]] cartoon mouse — a Pikachu-adjacent yellow figure with red cheeks — which sits like a sticker on the chest, then trails downward into a black coiled tail in the lower centre. The background is a [[wash]] of cobalt and warm grey, scribbled across with blocks of red, faint snowflake shapes, and a row of small green coins; in the upper third a glitched grid of yellow tiles flashes near the figure's ear, then dissolves. The whole [[palette]] holds at a low-key cobalt and ochre, with the yellow mouse and the red blocks doing all the high-key work. Reads first: the dark cat-figure with the bright stamp on its chest, the [[mifella|Crucifella]] [[silhouette]] translated into [[traitmaxxing|maximalist]] fur and a borrowed mascot — the [[lore-as-architecture|inherited Mifella body]] now cradling a Pokémon-base citation as compositional structure. Reads last: the snowflakes and the coin row, the ambient trait-noise [[layering|stacked]] over the wash that the room never bothers to resolve.
 
 ## See also
 
