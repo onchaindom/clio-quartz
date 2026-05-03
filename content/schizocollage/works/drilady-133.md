@@ -26,4 +26,4 @@ The square panel is dominated by a thick, pale-grey scumble of paint that drags 
 - [[parker-ito|Parker Ito]] — the artist
 - [[drilady|Drilady]] — the parent collection
 - [[png-layer-compositing|PNG-layer compositing]] — the device that lets paint and photograph share a square
-- [[drilady-402|Drilady #402]] — sibling work in the collection
+- [[drilady-402|Drilady №402]] — sibling work in the collection

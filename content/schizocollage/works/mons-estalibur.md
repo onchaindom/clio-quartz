@@ -26,4 +26,4 @@ A pale-green frog-bodied creature stands centred against a flat off-white ground
 - [[supermetal-bosch|Supermetal Bosch]] — the artist
 - [[visible-seams-aesthetic|Visible-seams aesthetic]] — the mode this object belongs to
 - [[super-metal-mons-poster|Super Metal Mons! poster]] — the broader Mons type chart
-- [[little-swag-world-1219|Little Swag World #1219]] — Bosch's other major project, the GAN tilted toward smoothing
+- [[little-swag-world-1219|Little Swag World №1219]] — Bosch's other major project, the GAN tilted toward smoothing

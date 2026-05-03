@@ -26,4 +26,4 @@ A bright lime-green plush frog-knight stands centred on a clean off-white seamle
 - [[supermetal-bosch|Supermetal Bosch]] — the artist
 - [[visible-seams-aesthetic|Visible-seams aesthetic]] — the mode against which *Little Swag World* sets itself
 - [[mons-estalibur|Mons "estalibur"]] — Bosch's other plush figure, the GAN tilted toward roughness
-- [[drifella-iii-1075-detail|Drifella III #1075]] — the picture-side of the same scene's [[traitmaxxing]] question
+- [[drifella-iii-1075-detail|Drifella III №1075]] — the picture-side of the same scene's [[traitmaxxing]] question

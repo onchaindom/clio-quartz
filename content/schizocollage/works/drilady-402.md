@@ -26,4 +26,4 @@ The composition borrows the format of an old equestrian portrait: a chestnut hor
 - [[parker-ito|Parker Ito]] — the artist
 - [[drilady|Drilady]] — the parent collection
 - [[traitmaxxing|Traitmaxxing]] — the impulse to layer high citation against doll-stamp
-- [[drilady-1133|Drilady #1133]] — sibling work
+- [[drilady-1133|Drilady №1133]] — sibling work

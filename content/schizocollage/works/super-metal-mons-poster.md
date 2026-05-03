@@ -26,4 +26,4 @@ A flat white ground holds a four-row grid of small character figurines, nine acr
 - [[supermetal-bosch|Supermetal Bosch]] — the artist
 - [[mons-estalibur|Mons "estalibur"]] — single-figure spinoff of the same project
 - [[visible-seams-aesthetic|Visible-seams aesthetic]] — the conceptual register this poster sits adjacent to
-- [[little-swag-world-1219|Little Swag World #1219]] — Bosch's other major project
+- [[little-swag-world-1219|Little Swag World №1219]] — Bosch's other major project

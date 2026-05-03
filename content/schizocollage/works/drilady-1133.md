@@ -26,4 +26,4 @@ A Drilady portrait fills the panel, the doll's head wrapped tightly in white mum
 - [[parker-ito|Parker Ito]] — the artist
 - [[drilady|Drilady]] — the parent collection
 - [[traitmaxxing|Traitmaxxing]] — the layering of marker, photo, and pasted flame
-- [[drilady-598|Drilady #598]] — sibling text-driven work
+- [[drilady-598|Drilady №598]] — sibling text-driven work

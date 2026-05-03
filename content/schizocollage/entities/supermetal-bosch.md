@@ -22,6 +22,6 @@ The artist's X handle is @supermetalx.
 
 - [[works/mons-estalibur|Mons "estalibur"]] — knit-plush frog-knight with mirror-polished metal spikes, the *Mons* GAN-grammar made physical
 - [[works/super-metal-mons-poster|Super Metal Mons! poster]] — type-chart of GAN-derived figurines arranged as a Pokémon roster
-- [[works/little-swag-world-1219|Little Swag World #1219]] — green frog-knight where the AI-smoothing has resolved the moodboard into a single coherent figure
+- [[works/little-swag-world-1219|Little Swag World №1219]] — green frog-knight where the AI-smoothing has resolved the moodboard into a single coherent figure
 
 ### Evidence

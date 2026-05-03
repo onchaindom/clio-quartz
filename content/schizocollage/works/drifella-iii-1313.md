@@ -26,4 +26,4 @@ The room reads as a wide cream wall with three pictures of unequal size hung in 
 - [[evil-biscuit|Evil Biscuit]] — the artist
 - [[drifella-iii|Drifella III]] — the parent collection
 - [[room-scale-attention|Room-scale attention]] — the format that lets a small frame anchor two large ones
-- [[the-constant-fella-666|The Constant Fella #666]] — the lineage's mid-point
+- [[the-constant-fella-666|The Constant Fella №666]] — the lineage's mid-point

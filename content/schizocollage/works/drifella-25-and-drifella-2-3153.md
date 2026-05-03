@@ -25,5 +25,5 @@ Left panel: a glossy purple cartoon head fills the frame, two enormous red anime
 
 - [[evil-biscuit|Evil Biscuit]] — the artist
 - [[drifella-iii|Drifella III]] — the trilogy's endpoint
-- [[the-constant-fella-666|The Constant Fella #666]] — the bridge work between *Drifella* and *Drifella 2*
+- [[the-constant-fella-666|The Constant Fella №666]] — the bridge work between *Drifella* and *Drifella 2*
 - [[traitmaxxing|Traitmaxxing]] — the layering logic the lineage develops

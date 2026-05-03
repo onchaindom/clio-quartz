@@ -26,4 +26,4 @@ A piece of lined notebook paper is set flat on a pale woven-grey tabletop. The p
 - [[mifella|Mifella / Spiky DJ]] — the figure
 - [[network-spirituality|Network spirituality]] — the devotional scaffolding the note repudiates
 - [[drifella-iii|Drifella III]] — the trilogy whose lore depends on Mifella's death
-- [[the-constant-fella-666|The Constant Fella #666]] — Evil Biscuit's earlier Mifella-bridge, against which this departure registers
+- [[the-constant-fella-666|The Constant Fella №666]] — Evil Biscuit's earlier Mifella-bridge, against which this departure registers

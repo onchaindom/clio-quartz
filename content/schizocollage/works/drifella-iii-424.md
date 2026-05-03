@@ -26,4 +26,4 @@ The room reads as a triptych on a beige plaster wall, three large square canvase
 - [[evil-biscuit|Evil Biscuit]] — the artist
 - [[drifella-iii|Drifella III]] — the parent collection
 - [[room-scale-attention|Room-scale attention]] — the format that makes a single PNG into a gallery
-- [[drifella-iii-1075-detail|Drifella III #1075]] — a sibling room
+- [[drifella-iii-1075-detail|Drifella III №1075]] — a sibling room
