@@ -20,4 +20,12 @@ The collection is the endpoint of a trilogy: *Drifella* (2023), *Drifella 2* (20
 
 The room format was also an ode to Yeche Lange gallery in New York, where Biscuit's physical exhibitions had developed the habit of placing miscellaneous figures beside hung objects.
 
+## Featured works
+
+- [[works/drifella-iii-424|Drifella III #424]] — full-room triptych, three states of the figure across one wall
+- [[works/drifella-iii-1075-detail|Drifella III #1075 (Detail)]] — single panel, the Crucifella silhouette as a stamped mask
+- [[works/drifella-iii-1305-price-chart|Drifella III #1305 (Detail of price chart)]] — outlier room where the price chart becomes the painting's baseline
+- [[works/drifella-iii-1313|Drifella III #1313]] — small gilt-framed cameo flanked by two large canvases
+- [[works/drifella-iii-1160-detail|Drifella III #1160 (Detail)]] — Pokémon-base room where the Dratini body remains visible
+
 ### Evidence

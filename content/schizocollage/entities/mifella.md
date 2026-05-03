@@ -16,3 +16,7 @@ The character — a dark, spiky figure — is central to the Drifella mythology.
 Spiky DJ is described by rightclicksave.com as an "active personality in the 'avant NFT' community" who hosts events and gives out "spiked" NFT profile pictures. The Mifella collection was launched on Solana and remains a reference point for the scene's origin story. However, Spiky DJ's artistic output beyond Mifella is thinner in the documented record than that of Evil Biscuit or Parker Ito, which is why the second figure profile in the wiki is split between Parker Ito (institutional depth) and Spiky DJ (genealogical pivot).
 
 The Mifella schism also carries the unresolved inheritance of the Milady Cancel controversies. Several former Milady participants, including Spiky DJ, reportedly attempted to restore relations with Remilia after the Cancel, which suggests the fork was not clean. The scene's current practitioners may not address this history directly, but it is part of the record the wiki preserves.
+
+## Featured works
+
+- [[works/mifella-goodbye-cruel-scene|Goodbye Cruel Scene]] — handwritten X-posted note photographed beside a fan of euros, an explicit scene-departure gesture from the artist whose lore-death birthed the trilogy

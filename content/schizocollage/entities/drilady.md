@@ -20,4 +20,11 @@ Unlike *Drifella III*, *Drilady* has not yet received a dedicated critical essay
 
 In April 2026 Ito posted a new image to X with the caption "Drilady mentioned," suggesting the collection remains active in his thinking.
 
+## Featured works
+
+- [[works/drilady-133|Drilady #133]] — diagonal scumble across a *MINIMALISM* tank-top portrait
+- [[works/drilady-402|Drilady #402]] — Drilady face stamped onto a borrowed equestrian portrait, ASCII rain through the field
+- [[works/drilady-598|Drilady #598]] — chrome-text @dril quotation against orchid and brick-red ground
+- [[works/drilady-1133|Drilady #1133]] — MS-Paint annotation layer over a mummy-bandaged doll portrait
+
 ### Evidence
