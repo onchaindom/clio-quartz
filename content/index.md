@@ -11,6 +11,7 @@ This site is a digital garden of gardens. Each wiki here is built around a singl
 ## Wikis
 
 - **Schizocollage** — [Garden](schizocollage/) · [Are.na](https://www.are.na/clio-press/schizocollage) · Zine *(forthcoming)*
+- **Neo-Expressionism** — [Garden](neo-expressionism/) · [Are.na](https://www.are.na/clio-press/georg-baselitz-and-neo-expressionism) · Zine *(forthcoming)*
 
 ---
 
