@@ -139,6 +139,9 @@ article {
     margin: 0;
     line-height: 1.4;
     white-space: nowrap;
+    width: auto;
+    max-width: none;
+    flex-shrink: 0;
   }
 
   // Tighten the search + darkmode flex row so it sits close to the title.
