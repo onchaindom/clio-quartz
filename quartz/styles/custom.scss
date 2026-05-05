@@ -109,26 +109,33 @@ article {
 // open without overlapping anything.
 // ----------------------------------------------------------------------------
 @media (max-width: 800px) {
-  // The PageTitle is rendered as <h2.page-title><a><img.page-title-logo/>...text</a></h2>.
-  // Make the inner anchor a flex row so the logo sits beside the wordmark.
-  .sidebar .page-title {
-    font-size: 1rem;
-    margin: 0;
-    line-height: 1.4;
-  }
-
-  .sidebar .page-title a {
-    display: inline-flex;
+  // PageTitle DOM:
+  //   <div.page-title-wrapper>
+  //     <a.page-title-logo-link><img.page-title-logo/></a>
+  //     <h2.page-title><a>Clio's Garden</a></h2>
+  //   </div>
+  // Flex the wrapper so logo + title are one inline row.
+  .sidebar .page-title-wrapper {
+    display: flex;
     align-items: center;
     gap: 0.5rem;
   }
 
-  // Logo at roughly the height of the text line — small inline mark, not a hero.
+  .sidebar .page-title-logo-link,
+  .sidebar .page-title-logo-link img {
+    display: block;
+  }
+
   .sidebar .page-title-logo {
     max-width: 32px;
     height: auto;
     margin: 0;
-    vertical-align: middle;
+  }
+
+  .sidebar .page-title {
+    font-size: 1rem;
+    margin: 0;
+    line-height: 1.4;
   }
 
   // Tighten the search + darkmode flex row so it sits close to the title.
