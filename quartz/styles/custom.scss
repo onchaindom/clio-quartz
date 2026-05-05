@@ -103,27 +103,32 @@ article {
 }
 
 // ----------------------------------------------------------------------------
-// Mobile (<= 800px): the sidebar collapses inline at the top of the page,
-// so anything sized to "100% of sidebar width" becomes 100% of the viewport.
-// Constrain the bust + title so they read as a small header, not a takeover.
+// Mobile (<= 800px): the sidebar collapses inline at the top of the page.
+// Lay out the bust + title as a single horizontal row at text line-height
+// so the whole header stays ~one line tall and the hamburger panel can
+// open without overlapping anything.
 // ----------------------------------------------------------------------------
 @media (max-width: 800px) {
-  .sidebar .page-title-logo {
-    max-width: 96px;
-    margin: 0.5rem 0 0 0;
-  }
-
+  // The PageTitle is rendered as <h2.page-title><a><img.page-title-logo/>...text</a></h2>.
+  // Make the inner anchor a flex row so the logo sits beside the wordmark.
   .sidebar .page-title {
-    font-size: 1.05rem;
-    margin: 0.15rem 0 0.5rem 0;
-    text-align: left;
+    font-size: 1rem;
+    margin: 0;
+    line-height: 1.4;
   }
 
-  // The page-title wrapper holds logo + title; on mobile it should be a small
-  // left-aligned block, not a centred hero.
-  .sidebar > .page-title-container,
-  .sidebar > .page-title {
-    display: block;
+  .sidebar .page-title a {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+
+  // Logo at roughly the height of the text line — small inline mark, not a hero.
+  .sidebar .page-title-logo {
+    max-width: 32px;
+    height: auto;
+    margin: 0;
+    vertical-align: middle;
   }
 
   // Tighten the search + darkmode flex row so it sits close to the title.
