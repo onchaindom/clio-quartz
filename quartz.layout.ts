@@ -38,8 +38,8 @@ export const defaultContentPageLayout: PageLayout = {
       ],
     }),
     Component.Explorer({
-      folderDefaultState: "open",
-      useSavedState: false,
+      folderDefaultState: "collapsed",
+      useSavedState: true,
       filterFn: (node) => node.slugSegment !== "tags" && node.slugSegment !== "formal-analysis",
     }),
   ],
