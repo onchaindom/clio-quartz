@@ -117,6 +117,7 @@ article {
   // Flex the wrapper so logo + title are one inline row.
   .sidebar .page-title-wrapper {
     display: flex;
+    flex-direction: row;
     align-items: center;
     gap: 0.5rem;
   }
