@@ -102,6 +102,36 @@ article {
   display: block;
 }
 
+// ----------------------------------------------------------------------------
+// Mobile (<= 800px): the sidebar collapses inline at the top of the page,
+// so anything sized to "100% of sidebar width" becomes 100% of the viewport.
+// Constrain the bust + title so they read as a small header, not a takeover.
+// ----------------------------------------------------------------------------
+@media (max-width: 800px) {
+  .sidebar .page-title-logo {
+    max-width: 96px;
+    margin: 0.5rem 0 0 0;
+  }
+
+  .sidebar .page-title {
+    font-size: 1.05rem;
+    margin: 0.15rem 0 0.5rem 0;
+    text-align: left;
+  }
+
+  // The page-title wrapper holds logo + title; on mobile it should be a small
+  // left-aligned block, not a centred hero.
+  .sidebar > .page-title-container,
+  .sidebar > .page-title {
+    display: block;
+  }
+
+  // Tighten the search + darkmode flex row so it sits close to the title.
+  .sidebar .flex-component {
+    margin-top: 0.25rem;
+  }
+}
+
 // --- Hide the EXPLORER heading on desktop ---
 // The wikis list under it IS the explorer; the label is dead scaffolding.
 // Mobile keeps its hamburger button (a separate .mobile-explorer element).
